@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Niramit:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Niramit");
 * {
   font-family: "Niramit", sans-serif;
 }
@@ -19,11 +19,13 @@ p {
   color: #115725;
 }
 .P1 {
+  font-weight:700 ;
   position: relative;
   bottom: 30px;
   font-size: 80px;
 }
 .p_2 {
+  font-weight: 200;
   display: block;
   margin-top: 50px;
   font-size: 30px;
