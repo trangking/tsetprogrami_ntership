@@ -20,6 +20,10 @@ h1 {
   color: #115725;
   display: inline-block;
   padding-right: 50px;
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 80b0b26 (first commit)
 }
 .textprice_2{
   font-family: "Niramit", sans-serif;
@@ -27,7 +31,44 @@ h1 {
   color: #115725;
   display: inline-block;
   padding-right: 85px;
+<<<<<<< HEAD
+=======
+  margin-top: 15px;
+}
+.textprice_3{
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 75px;
+  margin-top: 15px;
+}
+.textprice_4{
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 30px;
+  margin-top: 15px;
+}.textprice_5{
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 88px;
+  margin-top: 15px;
+>>>>>>> 80b0b26 (first commit)
 }
 .v1{
   margin-top: 6rem;
 }
+<<<<<<< HEAD
+=======
+.ant-btn-primary{
+  height: 45%;
+  font-size: 20px;
+  margin-top:7rem ;
+  padding: 10px 40px;
+
+}
+>>>>>>> 80b0b26 (first commit)
