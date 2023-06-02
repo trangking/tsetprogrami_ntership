@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Niramit");
+.form_body {
+  max-width: 1800px;
+  margin: 0 auto;
+  margin-top: 1rem;
+  padding: 3rem;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}
+h1 {
+  border-bottom: 1px solid #a8a8a8;
+  padding-bottom: 20px;
+  color: #115725;
+}
+.textprice_1 {
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 50px;
+}
+.textprice_2 {
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 86px;
+
+  margin-top: 15px;
+}
+.textprice_3 {
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 75px;
+  margin-top: 15px;
+}
+.textprice_4 {
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 30px;
+  margin-top: 15px;
+}
+.textprice_5 {
+  font-family: "Niramit", sans-serif;
+  font-size: 25px;
+  color: #115725;
+  display: inline-block;
+  padding-right: 90px;
+  margin-top: 15px;
+}
+.v1 {
+  margin-top: 6rem;
+}
+
+.ant-btn {
+ background-color:  #115725;
+  height: 45%;
+  font-size: 20px;
+  margin-top: 7rem;
+  padding: 10px 40px;
+  color: white;
+}
